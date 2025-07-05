@@ -2,7 +2,7 @@
 Variables are the containers that store the value while executing the program.
 variables are declared using the let, const and var keywords.
 let is used to declare the variables that can be changed later
-const is used to decare tge vairables that cannot be changed later
+const is used to decare the vairables that cannot be changed later
 var is used as same as let but it has a wider scope and can be accessed outside the block in which it is declared.
 RECOMMENDED: Use let and const instead of var.
 variables can be decared using camelCase eg: firstName etcc..
