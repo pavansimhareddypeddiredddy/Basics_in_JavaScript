@@ -24,6 +24,7 @@ let numberBool = Number(bool);
 console.log(numberBool);       //returns 0 for false
 
 console.log(Number(null));   // as null refers to empty so returns 0
+console.log(Number(undefined)); // Nan
 
 // CONVERTING INTO BOOLEAN
 
