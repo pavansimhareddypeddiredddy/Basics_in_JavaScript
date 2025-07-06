@@ -7,7 +7,7 @@ console.log("2"==2);  // true
 console.log(null == 0);  // false (because null is undefined not equal to 0 when equality operators come into action)
 console.log(null > 0);   // false( comparision operator will makes the null into Number type and becomes 0 so 0>0 is false)
 console.log(null>=0);   // true ( as  null converts into number datatype so null becomes 0 and 0>=0 gives u true)
-console.log(null<=0);  // false( guess why)
+console.log(null<=0);  // true( guess why)
 
 
 
