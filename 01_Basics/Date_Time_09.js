@@ -1,6 +1,9 @@
 // Create a new Date object that stores the current date and time
 let todayDate = new Date();
 
+// typeof Date is object 
+console.log(typeof(todayDate));
+
 // Display the full UTC date-time string (ISO format)
 console.log(todayDate); // Example: 2025-07-09T04:58:11.065Z
 
