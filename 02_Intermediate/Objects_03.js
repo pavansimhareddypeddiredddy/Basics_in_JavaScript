@@ -100,7 +100,7 @@
 //     name: "pavan simha reddy",
 //     age: 21,
 //     address : {
-//         city: allagadda,
+//         city: "allagadda",
 //         pincode: 518543,
 //         state: "andhra Pradesh",
 //     }
