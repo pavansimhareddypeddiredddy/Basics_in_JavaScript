@@ -8,8 +8,8 @@
 
 // CONVERTING INTO NUMBER DATA TYPE
 let name = "pavansimha";
-let numberName = Number(name); // Nan (not a number )means the converted string is not a pure number may contains alphabet,specialcharacters.
-console.log(numberName); 
+let numberName = Number(name);
+console.log(numberName);   // Nan (not a number )means the converted string is not a pure number may contains alphabet,specialcharacters.
 
 let string2 = "";
 console.log(Number(string2)); // returns 0 for empty string;
