@@ -37,10 +37,10 @@
 //      let person = { age : 18}; // object created 
 //      function updatedPerson(person){ //function body
 //       person.age= 21;
-//       console.log("inside function: "+person.age)
+//       console.log("inside function: "+person.age)  //21
 //      }
 //      updatedPerson(person); //calling functiont to update the age 
-//      console.log("outside function: "+person.age);
+//      console.log("outside function: "+person.age); // 21
 
 //   Types in call by reference (Array,Object, function)
 
